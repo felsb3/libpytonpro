@@ -2,3 +2,5 @@
 Módulo para  exemplificar construção de projetos Python no curso Pytools
 
 Nessse curso é ensinado como contribuir com projetos de código aberto
+
+Link do curso [Python Pro](https://plataforma.dev.pro.br/)
