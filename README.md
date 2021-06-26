@@ -5,6 +5,8 @@ Nesse curso é ensinado como contribuir com projetos de código aberto.
 
 Link do curso [Python Pro](https://plataforma.dev.pro.br/)
 
+[![Build Status](https://travis-ci.com/felsb3/libpytonpro.svg?branch=main)](https://travis-ci.com/felsb3/libpytonpro)
+
 Suportada versão3 de Python
 
 Para instalar:
