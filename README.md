@@ -11,6 +11,8 @@ Link do curso [Python Pro](https://plataforma.dev.pro.br/)
 
 [![Python 3](https://pyup.io/repos/github/felsb3/libpytonpro/python-3-shield.svg)](https://pyup.io/repos/github/felsb3/libpytonpro/)
 
+[![codecov](https://codecov.io/gh/felsb3/exercicios/branch/main/graph/badge.svg?token=BBQXTETVO9)](https://codecov.io/gh/felsb3/exercicios)
+
 Suportada versão3 de Python
 
 Para instalar:
