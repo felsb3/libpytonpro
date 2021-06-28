@@ -15,4 +15,8 @@ iniconfig==1.1.1
 toml==0.10.2
 pyparsing==2.4.7
 
+#Converge
+coverage==5.5
+pytest-cov==2.12.1
+
 -r requirements.txt
