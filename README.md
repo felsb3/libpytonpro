@@ -21,6 +21,9 @@ Para instalar:
 python3 -m venv .venv
 sourcer .venv/bin/activate
 pip install -r requirements-dev.txt
+# verificar se funciona
+- pip install -q pipenv codecov
+- pipenv sync --dev
 ````
 
 Para conferir qualidade de código:
@@ -34,3 +37,4 @@ Tópicos a serem abordados:
 1. Git
 2. Virtualenv
 3. PIP
+4. Pipenv
