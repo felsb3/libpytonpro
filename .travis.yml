@@ -5,7 +5,7 @@ install:
   - pip install -q pipenv codecov
   - pipenv sync --dev
 script:
-  - flake8
-  - pytest libpythonpro --cov=libpythonpro
+  - pipenv run flake8
+  - pipenv run pytest libpythonpro --cov=libpythonpro
 after_success:
-  - codecov
+  - pipenv run codecov
